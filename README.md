@@ -10,7 +10,7 @@
 * Can be combined easily with other things
 
 #### Cons
-* The naming is silly, "pure-" everything
+* I find the naming kind of silly, "pure-" everything
 * Nothing unique or special
 
 ---
@@ -18,6 +18,17 @@
 ## Middleweights
 
 ### [GroundworkCSS](http://groundworkcss.github.io/groundwork/?url=docs/home)
+#### Pros
+* More lightweight than others
+* Clean and simple
+* I like the simplicity of the grid system
+* Good naming conventions
+* Pro SASS
+
+#### Cons
+* No longer updated (it seems), but that isn't a bad thing for something simple
+* CSS & JS, not modular
+* Not the most documentation, but enough
 
 ---
 
@@ -28,6 +39,7 @@
 * Strong familiarity
 * Pro-SASS
 * Great documentation & v4.0 released
+* Pre-included JS means less for us to build, potentially
 
 #### Cons
 * Probably too many extras for what we will need (bloated)
@@ -39,11 +51,11 @@
 * More options than Bootstrap and...
 * Lighter than Bootstrap, but still heavyweight
 * Pro-SASS
-* 
+* Pre-included JS means less for us to build, potentially
 
 #### Cons
 * CSS & JS
-* 
+* Not as, but still a bit bloated
 
 ---
 
